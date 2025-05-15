@@ -1,3 +1,6 @@
+# Snake Game
+# This is a simple implementation of the classic Snake game using Python and Pygame.
+# The player controls a snake that moves around the screen, eating food and growing in length. The game ends if the snake collides with itself or the walls of the window.
 #improt req libraries
 import pygame
 import time
